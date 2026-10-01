@@ -1,0 +1,10 @@
+Junior Data Scientist - Acme Corp
+We are looking for a data scientist to join our analytics team.
+Requirements:
+- Strong Python and pandas skills
+- Experience with machine learning (classification, regression)
+- Solid SQL (PostgreSQL preferred)
+- Knowledge of data visualization tools
+- 1+ years of experience (internships count)
+Nice to have: Docker, AWS, NLP experience, Tableau
+Responsibilities: build predictive models, create dashboards, present insights to stakeholders.

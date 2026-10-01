@@ -1,0 +1,11 @@
+Vinayak Sharma | vinayak@example.com | +91-9000000000
+Education: B.Tech Computer Science (Data Science), Manipal University Jaipur, 2027, CGPA 8.73
+Skills: Python, pandas, scikit-learn, SQL, Streamlit, Matplotlib, Git
+Experience:
+Data Science Intern, ABC Analytics (Jun 2025 - Aug 2025)
+- Cleaned and analysed sales data with pandas, reducing reporting time by 30%
+- Built a churn prediction model using scikit-learn with 0.86 AUC
+Projects:
+Patient Risk Prediction System - Streamlit app deployed on Streamlit Cloud using scikit-learn
+Competitive programming: solved 300+ problems on LeetCode, including SQL
+Certifications: Python for Data Science (NPTEL)

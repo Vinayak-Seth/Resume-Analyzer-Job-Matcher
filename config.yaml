@@ -1,0 +1,17 @@
+llm:
+  provider: groq
+  model: openai/gpt-oss-120b
+  temperature: 0.1
+  max_output_tokens: 8192
+  max_retries: 2        # retries on malformed JSON / API errors
+
+input:
+  max_chars: 12000             # truncate very long inputs to control cost
+  min_resume_chars: 200        # below this the PDF is probably scanned/empty
+
+scoring:
+  strong_fit_min: 75
+  moderate_fit_min: 50
+
+paths:
+  prompts: prompts.yaml
